@@ -7,7 +7,7 @@
         "obfs": "tls1.2_ticket_auth",
         "obfs_param": "daocloud.com",
         "passwd": "xyz123456",
-        "port": 8387,
+        "port": 51348,
         "protocol": "auth_chain_b",
         "protocol_param": "hamjin",
         "transfer_enable": 9007199254740992,
