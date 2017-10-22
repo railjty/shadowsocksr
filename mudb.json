@@ -1,2 +1,17 @@
 [
+  {
+        "d": 241504991,
+        "enable": 1,
+        "method": "aes-256-ctr",
+        "muid": -1,
+        "obfs": "tls1.2_ticket_auth",
+        "obfs_param": "daocloud.com",
+        "passwd": "xyz123456",
+        "port": 8387,
+        "protocol": "auth_chain_b",
+        "protocol_param": "hamjin",
+        "transfer_enable": 9007199254740992,
+        "u": 35592451,
+        "user": "ham"
+    }
 ]
